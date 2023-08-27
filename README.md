@@ -17,5 +17,6 @@ I'm still exploring feasibility of this solution:
 
 1. Detect if the Xbox wireless USB dongle is connected.
 1. Automate the disabling other screens and enabling only the receiver/TV.
+1. Change audio output. For that I'll be using [frgnca/AudioDeviceCmdlets](https://github.com/frgnca/AudioDeviceCmdlets)
 1. Open Steam in Big Picture mode.
 1. Undo the display changes when the Xbox wireless USB dongle is unplugged.
